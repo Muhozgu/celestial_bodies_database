@@ -1,2 +1,2 @@
-# celestial_bodies_database
-Relational Database #1
+# celestial_bodies_database 
+Relational Database (PostgreSQL, SQL)
